@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 仮想通貨まとめ
 
-You can use the [editor on GitHub](https://github.com/hitoshietoh/cryptpedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 総合
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 便利リスト
 
-### Markdown
+- [CoinGecko](https://www.coingecko.com/ja)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## BTC
 
-```markdown
-Syntax highlighted code block
+## ETH
 
-# Header 1
-## Header 2
-### Header 3
+## BSC(Binance Smart Chain)
 
-- Bulleted
-- List
+### BNB
 
-1. Numbered
-2. List
+### pancakeswap
 
-**Bold** and _Italic_ and `Code` text
+## Solana
 
-[Link](url) and ![Image](src)
-```
+- [オフィシャル](https://solana.com/)
+- [ホワイトペーパー](https://solana.com/solana-whitepaper.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Raydium
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hitoshietoh/cryptpedia/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
