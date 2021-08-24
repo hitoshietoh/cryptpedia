@@ -2,16 +2,21 @@
 
 ## 総合
 
-
+---
 
 ### 便利リスト
 
 - [DeFi Llama](https://defillama.com)
 - [CoinGecko](https://www.coingecko.com/ja)
 
+---
+
 ## BTC
 
+---
+
 ## ETH
+
 
 ### curve
 
@@ -25,6 +30,7 @@
 - [ホワイトペーパー](https://uniswap.org/whitepaper.pdf)
 - [解説記事](https://fisco.jp/media/uniswap-about/)
 
+---
 
 ## BSC(Binance Smart Chain)
 
@@ -39,6 +45,7 @@
 
 - [解説記事](https://fisco.jp/media/bnb-about/)
 
+---
 
 ## Solana
 
