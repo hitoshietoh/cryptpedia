@@ -9,7 +9,6 @@
 - [DeFi Llama](https://defillama.com)
 - [CoinGecko](https://www.coingecko.com/ja)
 
----
 
 ## BTC
 
@@ -17,6 +16,7 @@
 
 ## ETH
 
+---
 
 ### curve
 
@@ -30,9 +30,10 @@
 - [ホワイトペーパー](https://uniswap.org/whitepaper.pdf)
 - [解説記事](https://fisco.jp/media/uniswap-about/)
 
----
 
 ## BSC(Binance Smart Chain)
+
+---
 
 ### Pancakeswap
 
@@ -45,9 +46,10 @@
 
 - [解説記事](https://fisco.jp/media/bnb-about/)
 
----
 
 ## Solana
+
+---
 
 - [オフィシャル](https://solana.com/)
 - [ホワイトペーパー](https://solana.com/solana-whitepaper.pdf)
