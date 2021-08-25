@@ -85,7 +85,7 @@ DEXで行われる資金調達
 - IEO(Initial Exchange Offering)  
 取引所仲介で行われる資金調達
 
-- IL（インパーマネントロス） 
+- IL（インパーマネントロス）  
 ファーミングで預けたトークンペアの片方の価格が変動することで発生する損失のこと
 
 - KYC(Know Your Costomer)  
