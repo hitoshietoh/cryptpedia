@@ -88,10 +88,14 @@ DEXで行われる資金調達
 - IL（インパーマネントロス）  
 ファーミングで預けたトークンペアの片方の価格が変動することで発生する損失のこと
 
+- JPYC  
+日本円連動のステーブルコイン、JPYC株式会社が発行している  
+[参考記事](https://note.com/ocurima/n/nd7c3dbb48409)
+
 - KYC(Know Your Costomer)  
 取引所などが行う本人確認
 
-- L2 (Layer 2)
+- L2 (Layer 2)  
 L1のトランザクションがスタックするので作られたサイドチェーンでL1との接続があるもの
 
 - Liquidation date  
@@ -107,6 +111,11 @@ L1のトランザクションがスタックするので作られたサイドチ
 
 - PipelineVM  
 solanaの独自VM(Vatual Machine)
+
+- Polygon  
+ブロックチェーンの一種、2021年2月にMATICから改名  
+ガバナンストークンはMATIC
+[参考リンク](https://gaiax-blockchain.com/polygon)
 
 - OI(Open Interest)  
 信用取引の未決済建玉比率のこと  
@@ -151,6 +160,11 @@ Ethereumアプリケーション開発におけるデファクトスタンダー
 Circle社が発行するドルペッグのステーブルコイン
 
 - Yield Farming  
+
+- あたぱん  
+【あたパン 頭🥞(あたぱん)〈形〉】  
+頭がパンケーキ(CAKEトークン)に陶酔しており、資産の大部分をCAKEで構成する人、様子のこと。  
+CAKEはパンケーキスワップサービスでのfeeがCAKE保有者やLP提供者へ配布されることからCAKE枚数を増やすことを「パンケーキを焼く」などと表現する。
 
 - アグリゲーター  
 
