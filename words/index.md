@@ -30,7 +30,7 @@ BSCのトークン規格
 - Binance  
 取引所の名前
 
-- BUSD
+- BUSD  
 バイナンスとPaxos社が発行しているドルペッグのステーブルコイン、PaxosによってBUSDの積立金の監査を毎月行われている。
 
 - CEX (Centralized Exchange)  
@@ -86,6 +86,8 @@ DEXで行われる資金調達
 取引所仲介で行われる資金調達
 
 - IL（インパーマネントロス） 
+ファーミングで預けたトークンペアの片方の価格が変動することで発生する損失のこと
+
 - KYC(Know Your Costomer)  
 取引所などが行う本人確認
 
@@ -97,10 +99,10 @@ L1のトランザクションがスタックするので作られたサイドチ
 [参考記事](https://bitcoin-talk.info/liquidationdata/)
 
 
-- LP (Liquidity Provider)
+- LP (Liquidity Provider)  
 流動性供給者
 
-- LPトークン (Liquidity Provider token)
+- LPトークン (Liquidity Provider token)  
 流動性供給者に渡される預入証のようなもの
 
 - PipelineVM  
