@@ -6,6 +6,7 @@
 
 ### 便利リスト
 
+- [用語集](/words/index.html)
 - [DeFi Llama](https://defillama.com)
 - [CoinGecko](https://www.coingecko.com/ja)
 
