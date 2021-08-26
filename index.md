@@ -103,7 +103,86 @@ Compoundのfolk
 - [オフィシャル](https://raydium.io)
 - [ホワイトペーパー](https://raydium.io/Raydium-Litepaper.pdf)
 
+## Polygon
+
+---
+
+### Quickswap
+
+- [オフィシャル](https://quickswap.exchange)
+- [Twitter](https://twitter.com/quickswapdex)
+
+### Iron Finance
+
+- [オフィシャル](https://iron.finance)
+- [Twitter](https://twitter.com/ironfinance)
+- [ホワイトペーパー](https://docs.iron.finance)
+
+## Avalanche
+
+---
+
+### Bemqi
+
+- [オフィシャル](https://benqi.fi)
+- [Twitter](https://twitter.com/benqifinance)
+
+### Pangolin
+
+- [オフィシャル](https://pangolin.exchange)
+- [Twitter](https://twitter.com/pangolindex)
+- [ホワイトペーパー](https://pangolin.exchange/litepaper/)
+
+
+## Fantom
+
+---
+
+### Spookyswap
+
+- [オフィシャル](https://spookyswap.finance)
+- [Twitter](https://twitter.com/spookyswap)
+- [ホワイトペーパー](https://docs.spookyswap.finance/products/exchange)
+
+### SpritSpaw
+
+- [オフィシャル](https://www.spiritswap.finance)
+- [Twitter](https://twitter.com/spirit_swap)
+
+## Terra
+
+---
+
+### Anchor Protocol
+
+- [オフィシャル](https://anchorprotocol.com)
+- [Twitter](https://twitter.com/anchor_protocol)
+- [ホワイトペーパー](https://anchorprotocol.com/docs/anchor-v1.1.pdf)
+
+### Lido
+
+- [オフィシャル](https://lido.fi)
+- [Twitter](https://twitter.com/LidoFinance)
+- [ホワイトペーパー](https://whitepaper.io/document/727/steth-lido-whitepaper)
+
+## Heco
+
+---
+
+### Mdex
+
+- [オフィシャル](https://mdex.com/#/)
+- [Twitter](https://twitter.com/mdexswap)
+- [ホワイトペーパー](https://whitepaper.io/document/719/mdex-whitepaper)
+
+### Channels Finance
+
+- [オフィシャル](https://channels.finance)
+- [Twitter](https://twitter.com/channelsfinance)
+
 ## ステーブルコイン
+
+---
 
 ステーブルコインは、安定した価格を実現するように設計された通貨
 [ステーブルコインのMarketCap](https://coinmarketcap.com/ja/view/stablecoin/)
