@@ -18,6 +18,11 @@ DEXのTVLが見れる
 - [CoinGecko](https://www.coingecko.com/ja)  
 仮想通貨の時価総額
 
+- [クソポジチェッカー](http://ludwig.s602.xrea.com/op/)  
+価格帯でのポジションの含み益・含み損の可視化サイト  
+[見方はこちら](https://bitcoin-talk.info/kusopoji-checker/)
+
+
 ### その他
 
 - [事件まとめ](/incident/index.html)
@@ -129,6 +134,7 @@ MakerDAOが発行。
 
 
 ### アルゴリズム型（無担保型）
+
 [アルゴリズミック・ステーブルコインの動向（1） マルチトークンモデル「Basis Cash」「Empty Set Dollar」の仕組み概説](https://hashhub-research.com/articles/2021-01-07-about-basis-cash-and-empty-set-dollar)
 
 **UST**
