@@ -10,6 +10,9 @@
 - [DeFi Llama](https://defillama.com)
 - [CoinGecko](https://www.coingecko.com/ja)
 
+### その他
+
+- [事件まとめ](/incident/index.html)
 
 ## BTC
 
